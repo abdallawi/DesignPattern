@@ -1,3 +1,5 @@
+// From  website: http://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/
+// Author Derek Banas
 public class Dog extends Animal{
 	
 	public void digHole(){

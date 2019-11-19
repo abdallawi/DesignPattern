@@ -1,3 +1,6 @@
+// From  website: http://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/
+// Author Derek Banas
+
 public class WorkWithAnimals{
 	
 	int justANum = 10;
